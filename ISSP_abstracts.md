@@ -38,6 +38,10 @@ layout: default
 
 XXXXX
 
-Llista de Congressos
+Llista de Congressos:
 
-Geneva 1992
+* 2024 - Novi Sad, Serbia
+* 2022 - Bragança, Portugal
+* 2021 - Los Alamos, NM, USA
+* 2018 - Tours, France
+* 2016 - Geneva, Switzerland
