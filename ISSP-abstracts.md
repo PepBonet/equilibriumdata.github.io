@@ -1,5 +1,5 @@
 ---
-title: Equilibrium data
+title: ISSP Abstract Books
 layout: default
 ---
 <ul>
@@ -40,8 +40,24 @@ XXXXX
 
 Llista de Congressos:
 
-* 2024 - Novi Sad, Serbia
-* 2022 - Bragança, Portugal
-* 2021 - Los Alamos, NM, USA
-* 2018 - Tours, France
-* 2016 - Geneva, Switzerland
+* 2024 - ISSP21 - Novi Sad, Serbia
+* 2022 - ISSP20 - Bragança, Portugal
+* 2021 - ISSP19 - Los Alamos, NM, USA
+* 2018 - ISSP18 - Tours, France
+* 2016 - ISSP17 - Geneva, Switzerland
+* 2014 - ISSP16 - Karlsruhe, Germany
+* 2012 - ISSP15 - Xining, China
+* 2010 - ISSP14 - Leoben, Austria
+* 2008 - ISSP13 - Dublin, Ireland
+* 2006 - ISSP12 - Freiberg, Germany
+* 2004 - ISSP11 - Aveiro, Portugal
+* 2002 - ISSP10 - Varna, Bulgaria
+* 2000 - ISSP9 - Hammamet, Tunisia
+* 1998 - ISSP8 - Niigata, Japan
+* 1996 - ISSP7 - Leoben, Austria
+* 1994 - ISSP6 - Buenos Aires, Argentina
+* 1992 - ISSP5 - Moscow, Russia
+* 1990 - ISSP4 - Troy, NY, USA
+* 1988 - ISSP3 - Guildford, Surrey, UK
+* 1986 - ISSP2 - Newark, NJ, USA
+* 1984 - ISSP1 - London, ON, Canada
