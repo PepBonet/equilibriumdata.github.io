@@ -44,7 +44,7 @@ Llista de Congressos:
 * 2022 - ISSP20 - Bragança, Portugal
 * 2021 - ISSP19 - Los Alamos, NM, USA
 * 2018 - ISSP18 - Tours, France
-* 2016 - ISSP17 - Geneva, Switzerland
+* <a href="ISSP/ISSP17-Book.pdf>2016 - ISSP17 - Geneva, Switzerland</a>
 * 2014 - ISSP16 - Karlsruhe, Germany
 * 2012 - ISSP15 - Xining, China
 * 2010 - ISSP14 - Leoben, Austria
